@@ -25,6 +25,3 @@ I am a PhD candidate working on deep density filtering, Bayesian inference for S
   {% if p.slides %} · [Slides]({{ p.slides }}){% endif %}
 {% endfor %}
 
-## Contact {#contact}
-- Email: <bagmark@chalmers.se>
-- Department of Mathematical Sciences, Chalmers University of Technology & University of Gothenburg
