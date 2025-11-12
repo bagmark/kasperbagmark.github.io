@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Home"
+title: 
 ---
 
 # Kasper Bågmark
