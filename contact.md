@@ -3,4 +3,6 @@ layout: single
 title: "Contact"
 permalink: /contact/
 ---
-Your contact info here.
+## Contact {#contact}
+- Email: <bagmark@chalmers.se>
+- Department of Mathematical Sciences, Chalmers University of Technology & University of Gothenburg
