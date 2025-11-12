@@ -3,8 +3,10 @@ main:
     url: /
   - title: "Publications"
     url: /publications/
+  - title: "Biography"
+    url: /biography/
   - title: "Contact"
-    url: /contact/
+    url: /contact
   # Optional extras:
   # - title: "CV"
   #   url: /assets/KasperBagmark_CV.pdf
