@@ -2,6 +2,7 @@
   authors: "K. Bågmark, F. Rydin"
   venue: "arXiv"
   year: 2025
+  date: 2025-11-11
   type: "preprint"
   doi: "https://doi.org/10.48550/arXiv.2511.07261"
   pdf: "https://arxiv.org/pdf/2511.07261"
@@ -11,6 +12,7 @@
   authors: "K. Bågmark, A. Andersson, S. Larsson"
   venue: "arXiv"
   year: 2025
+  date: 2025-08-15
   type: "preprint"
   doi: "https://doi.org/10.48550/arXiv.2508.10630"
   pdf: "https://arxiv.org/pdf/2508.10630"
@@ -20,6 +22,7 @@
   authors: "K. Bågmark, A. Andersson, S. Larsson, F. Rydin"
   venue: "arXiv"
   year: 2024
+  date: 2024-09-30
   type: "preprint"
   doi: "https://doi.org/10.48550/arXiv.2409.14585"
   pdf: "https://arxiv.org/pdf/2409.14585"
@@ -29,6 +32,7 @@
   authors: "K. Bågmark, A. Andersson, S. Larsson"
   venue: "Partial Differential Equations and Applications (PDEA)"
   year: 2023
+  date: 2023-03-30
   type: "publication"
   doi: "https://doi.org/10.1007/s42985-023-00231-5"
   pdf: "https://link.springer.com/article/10.1007/s42985-023-00231-5"
