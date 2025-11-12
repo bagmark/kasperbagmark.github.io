@@ -3,8 +3,6 @@ layout: single
 title: 
 ---
 
-# Kasper Bågmark
-
 I am a PhD candidate working on scientific machine learning, Bayesian statistics, Stochastics, and numerical analysis. 
 
 - **Google Scholar:** <https://scholar.google.com/citations?user=-oZDUnQAAAAJ>
