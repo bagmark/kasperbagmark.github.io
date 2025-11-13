@@ -38,7 +38,8 @@ defaults:
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
 # Minimal Mistakes settings
-minimal_mistakes_skin: "air"
+minimal_mistakes_skin: "sunrise"   # options include: default, air, aqua, contrast, dark, dirt, neon, mint, sunrise
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
