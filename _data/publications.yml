@@ -36,3 +36,12 @@
   type: "publication"
   doi: "https://doi.org/10.1007/s42985-023-00231-5"
   pdf: "https://link.springer.com/article/10.1007/s42985-023-00231-5"
+
+- title: "An energy-based deep splitting method for the nonlinear filtering problem"
+  authors: "K. Bågmark, A. Andersson, S. Larsson"
+  venue: "Zenodo"
+  year: 2025
+  date: 2025-11-11
+  type: "software"
+  doi: "https://doi.org/10.5281/zenodo.17594127"
+  code: "https://github.com/bagmark/deep-density-filtering"

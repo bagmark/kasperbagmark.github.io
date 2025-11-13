@@ -25,3 +25,12 @@ permalink: /publications/
   {% if p.pdf %} · [PDF]({{ p.pdf }}){% endif %}
   {% if p.code %} · [Code]({{ p.code }}){% endif %}
 {% endfor %}
+
+## Software
+{% assign software = site.data.publications | where: "type", "software" | sort: "date" | reverse %}
+{% for p in preprints %}
+- **{{ p.title }}** ({{ p.year }}). {{ p.authors }}. _{{ p.venue }}_.  
+  {% if p.doi %}[DOI]({{ p.doi }}){% endif %}
+  {% if p.pdf %} · [PDF]({{ p.pdf }}){% endif %}
+  {% if p.code %} · [Code]({{ p.code }}){% endif %}
+{% endfor %}
