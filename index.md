@@ -18,7 +18,7 @@ Here you see the [master's thesis](https://odr.chalmers.se/server/api/core/bitst
 If you're interested in collaborating or have a proposal related to probabilistic learning, Bayesian statistics, or differential equations (PDEs, SPDEs, or SDEs), feel free to get in touch!
 
 {% comment %}
-{% include youtube.html id="VIDEO_ID" title="Talk title here" %}
+{% include youtube.html id="https://youtu.be/kJDsUb1K-KI" title="Talk title here" %}
 {% endcomment %}
 
 
